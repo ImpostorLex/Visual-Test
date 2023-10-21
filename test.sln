@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2019
 
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyHelloWorldApp", "MyHelloWorldApp\MyHelloWorldApp.csproj", "{E6F2E9C8-A123-4C79-B6A7-DA9E682AFB9A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyHelloWorldApp", "test.csproj", "{E6F2E9C8-A123-4C79-B6A7-DA9E682AFB9A}"
 EndProject
 
 Global
